@@ -6,7 +6,7 @@ It spins, it shines, it flexes — all without any fancy libraries!
 ## Demo
 
 Wanna see the cube in action?  
-[Click here to spin the magic](#) *(replace this with your GitHub Pages or CodePen link later)*
+[Click here to spin the magic](#)
 [Cube Animation .zip](https://github.com/user-attachments/files/19694486/Cube.Animation.zip)
 
 ## Features
